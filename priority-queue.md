@@ -10,13 +10,14 @@ category: ps
 > [priority_queue](http://en.cppreference.com/w/cpp/container/priority_queue)
 > header: queue
 
-```
+```C++
 template<
     class T,
     class Container = std::vector<T>,
     class Compare = std::less<typename Container::value_type>
 > class priority_queue;
 ```
+<!-- more -->
 
 ## 특징
 * T 타입을 넣으면, `vector<T>`에 들고 있다가 큰 순서대로 뱉어준다.
