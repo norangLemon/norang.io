@@ -26,7 +26,7 @@ void f(vector<int>::iterator it);
 어떤 타입을 받든 동작하게 하고 싶다면, 다음과 같이 넘겨주면 될 것이다.
 
 ```c++
-template <typedef T>
+template <typename T>
 void f(<vector<T>::iterator it);
 ```
 
@@ -44,7 +44,7 @@ void f(<vector<T>::iterator it);
 #include <iterator>
 #include <vector>
  
-template<class BidirIt>
+template <typename BidirIt>
 void my_print(BidirIt it)
 {
     typename std::iterator_traits<BidirIt>::value_type val = *it;
