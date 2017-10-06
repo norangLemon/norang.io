@@ -3,7 +3,6 @@ title: "scanf()에서 공백 스킵하기"
 date: 2017-10-06 04:58:43
 tags:
 - C++
-- C
 - ps
 ---
 
@@ -23,6 +22,29 @@ scanf("%*[ \n\t]%c", &var);
 ```
 
 `[]`는 해당 대괄호에 있는 문자들을 하나의 그룹으로 묶어,
-그 그룹에 속한 문자열을 골라내는 역할을 한다.
+그 그룹에 속한 문자를 골라내는 역할을 한다.
+이 때 그룹의 문자가 몇 개 들어오든 상관없이 모두 뛰어넘는다.
 
-[참고링크](https://classes.soe.ucsc.edu/cmps012a/Fall98/faq/scanfQ.html)
+#### 예시 코드
+
+```c++
+#include <cstdio>
+
+int main() {
+    char c;
+    scanf("%*[1 \n\t]%c", &c);
+    printf("> %c\n", c);
+    return 0;
+}
+```
+
+#### 실행 결과
+
+```
+> ./test.out
+111111111
+1    11112
+> 2
+```
+
+* [참고링크](https://classes.soe.ucsc.edu/cmps012a/Fall98/faq/scanfQ.html)
