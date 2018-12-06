@@ -7,8 +7,8 @@ This repository is for my [blog](https://norang.io).
 To render this posts properly, make simlink using commands below.
 
 ```
-rm ~/blog/hexo/norang.io/source/_posts
-ln -sf ~/blog/posts ~/blog/hexo/norang.io/source/_posts
+rm ~/blog/hexo/norang.io/source -rf
+ln -sf ~/blog/source ~/blog/hexo/norang.io/source
 ```
 
 ### Tips
