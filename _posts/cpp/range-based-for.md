@@ -4,8 +4,6 @@ date: 2017-03-01 20:06:13
 tags:
 - ps
 - C++
-categories:
-- languages
 ---
 
 다음과 같이 Python의 for each 구문과 비슷한 C++의 for문을 range based for이라고 한다.

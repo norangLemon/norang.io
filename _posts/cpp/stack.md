@@ -5,10 +5,6 @@ tags:
 - ps
 - 자료구조
 - C++
-categories:
-- ps
-- 자료구조
-- languages
 ---
 
 > [stack](http://en.cppreference.com/w/cpp/container/stack)

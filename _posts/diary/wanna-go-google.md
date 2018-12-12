@@ -4,7 +4,6 @@ date: 2017-02-26 21:50:24
 tags: 
 - google
 - diary
-categories: diary
 ---
 
 구글은 정말 밥이 맛있다.
