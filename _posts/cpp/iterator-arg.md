@@ -1,6 +1,7 @@
 ---
 title: "iterator 인자로 넘기기"
 date: 2017-10-06 05:23:53
+categories: C++
 tags:
 - C++
 ---

@@ -1,6 +1,7 @@
 ---
 title: 구글에 가자
 date: 2017-02-26 21:50:24
+categories: diary
 tags: 
 - google
 - diary

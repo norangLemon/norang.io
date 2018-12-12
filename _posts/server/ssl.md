@@ -1,6 +1,7 @@
 ---
 title: 'ssl 인증서 달기'
 date: 2017-04-07 05:52:32
+categories: server
 tags:
 - server
 - let's encrypt

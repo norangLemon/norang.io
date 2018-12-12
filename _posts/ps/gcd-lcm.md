@@ -1,6 +1,7 @@
 ---
 title: '최대공약수, 최소공배수'
 date: 2017-03-01 19:59:23
+categories: ps
 tags:
 - ps
 - google

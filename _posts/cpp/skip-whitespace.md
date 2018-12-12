@@ -1,6 +1,7 @@
 ---
 title: "scanf()에서 공백 스킵하기"
 date: 2017-10-06 04:58:43
+categories: C++
 tags:
 - C++
 - ps

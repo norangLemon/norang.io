@@ -1,6 +1,7 @@
 ---
 title: 'DFS, BFS'
 date: 2017-03-14 11:01:11
+categories: ps
 tags:
 - ps
 ---

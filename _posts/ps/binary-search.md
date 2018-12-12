@@ -1,6 +1,7 @@
 ---
 title: 이분탐색
 date: 2017-09-19 12:54:35
+categories: ps
 tags:
 - ps
 ---

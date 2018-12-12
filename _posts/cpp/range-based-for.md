@@ -1,6 +1,7 @@
 ---
 title: range based for
 date: 2017-03-01 20:06:13
+categories: C++
 tags:
 - ps
 - C++

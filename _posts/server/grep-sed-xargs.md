@@ -1,6 +1,7 @@
 ---
 title: 'grep, sed, xargs'
 date: 2017-04-05 17:55:24
+categories: server
 tags:
 - server
 - linux

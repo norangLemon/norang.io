@@ -1,6 +1,7 @@
 ---
 title: 정렬
 date: 2017-03-09 12:09:44
+categories: ps
 tags:
 - ps
 - sorting

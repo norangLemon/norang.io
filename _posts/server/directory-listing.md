@@ -1,6 +1,7 @@
 ---
 title: directory listing
 date: 2017-03-03 20:34:19
+categories: server
 tags: 
 - server
 - nginx

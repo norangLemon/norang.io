@@ -1,6 +1,7 @@
 ---
 title: priority_queue
 date: 2017-02-26 21:52:03
+categories: C++
 tags: 
 - ps
 - 자료구조

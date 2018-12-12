@@ -1,6 +1,7 @@
 ---
 title: stack
 date: 2017-03-06 07:39:49
+categories: C++
 tags:
 - ps
 - 자료구조

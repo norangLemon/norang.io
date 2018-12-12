@@ -1,6 +1,7 @@
 ---
 title: fail2ban
 date: 2018-12-06 08:13:19
+categories: server
 tags:
 - ssh
 ---

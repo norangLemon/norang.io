@@ -1,6 +1,7 @@
 ---
 title: dig 사용하기
 date: 2017-03-03 20:16:10
+categories: server
 tags: server
 ---
 DNS 쿼리를 더 자세하게 조사하기 위해 `dig`를 사용할 수 있다.
