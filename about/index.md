@@ -6,7 +6,9 @@ type: about
 <p align=right>
 norangLemon at gmail
 [github](https://github.com/norangLemon)
-[twitter](https://twitter.com/_norang_)
+[Twitter](https://twitter.com/_norang_)
+[RocketPunch](https://www.rocketpunch.com/@norang)
+[LinkedIn](www.linkedin.com/in/noranglemon)
 </p>
 
 Education
