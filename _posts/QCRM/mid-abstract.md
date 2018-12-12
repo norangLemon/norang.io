@@ -3,7 +3,7 @@ title: '[컴양방] 중간 고사 요약'
 date: 2017-04-17 20:29:40
 tags:
 - classes
-- 커뮤니케이션 양적 방법론
+- 커뮤니케이션 양적 연구 방법론
 ---
 # Human Inquiry and Science
 
