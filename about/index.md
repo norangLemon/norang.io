@@ -8,7 +8,7 @@ norangLemon at gmail
 [github](https://github.com/norangLemon)
 [Twitter](https://twitter.com/_norang_)
 [RocketPunch](https://www.rocketpunch.com/@norang)
-[LinkedIn](www.linkedin.com/in/noranglemon)
+[LinkedIn](https://www.linkedin.com/in/noranglemon)
 </p>
 
 Education
