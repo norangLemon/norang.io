@@ -19,6 +19,10 @@ Education
 
 Employment
 ---
+#### Google
+* Software programmer (2019. 1 ~ now)
+  - Cloud IOT team
+
 #### Devsisters
 * Software programmer (2018. 1 ~ 2018. 6)
 
